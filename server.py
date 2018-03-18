@@ -39,4 +39,4 @@ api.add_resource(recommend, '/<string:st>/')
 
 if __name__ == "__main__":
 	comeondata()
-	app.run('27.35.77.146')
+	app.run()
